@@ -1,4 +1,4 @@
-# DecentralizedStockExchangeImplementationUsingEthereum
+# Decentralized Stock Exchange Implementation Using Ethereum
 
 Please cite the following paper: <br/>
 Decentralized Stock Exchange Implementation using Ethereum <br/>
